@@ -6,7 +6,7 @@ np.random.seed(0)
 N = 12
 L = 10.0
 dt = 0.01
-T = 300
+T = 500
 
 rd = 0.5 #diameter of the molecule
 radius = rd/2
